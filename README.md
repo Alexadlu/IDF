@@ -1,2 +1,2 @@
-# BoDNet
-Bottleneck Fusion Distillation Network for Nighttime Person Re-Identification
+# IDF
+Illumination Distillation Framework for Nighttime Person Re-Identification and A New Benchmark
