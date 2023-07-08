@@ -4,9 +4,9 @@ PDF: [Illumination Distillation Framework for Nighttime Person Re-Identification
 
 
 # Dataset download link 
-[Baidu Yun](https://pan.baidu.com/s/1bQxumbiN1QOobmapBgndbw) code：pl95
+[Baidu Yun](https://pan.baidu.com/s/1J761DADOP_lPEZNcYxe90Q) code：N600
 
-[Google Yun](https://drive.google.com/file/d/1vKHJBlRBbTYBXtPgB_vMmSAMc654jSCp/view?usp=sharing)
+[Google Yun](https://drive.google.com/drive/folders/1szKKPzGP7VTLrmIPEGF4Qm_N5ieVf1Pj?usp=drive_link)
 
 ### Citation
 
