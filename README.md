@@ -1,7 +1,10 @@
+# News :sparkles:
+We uploaded the IDF source code based on the IDE implementation, along with the related models and evaluation results.
+
+
 # TMM 2023 IDF
 PDF: [Illumination Distillation Framework for Nighttime Person Re-Identification and A New Benchmark
 ](https://ieeexplore.ieee.org/document/10098634)
-
 
 # Dataset download link 
 [Baidu Yun](https://pan.baidu.com/s/1J761DADOP_lPEZNcYxe90Q) code：N600
