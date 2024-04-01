@@ -7,7 +7,7 @@ Model_file: [Google_Yun](https://drive.google.com/file/d/1QE85gJ85f4LaCp1Q8mmjO_
 Evaluation_mat: [Google_Yun](https://drive.google.com/file/d/1LgTanZOtpSxLVcbXze8GN9ik1syC9sv3/view?usp=drive_link)
 
 
-# Nighttime Person Dataset download link 
+# Nighttime Person ReID Dataset download link 
 Night600: [Google_Yun](https://drive.google.com/file/d/1_hPDoEARO5KHAGTu1_3xKuKj-eMbGD-0/view?usp=drive_link)   
 Night600: [Baidu_Yun](https://pan.baidu.com/s/190WK7fLH7KIdaez_l_UEaw?pwd=1234)
 
